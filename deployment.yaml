@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: wildfly.prod.globaltranscribe.com
+  - host: wildfly.rancher.perezcarreiro.com
     http:
       paths:
         - path: /
